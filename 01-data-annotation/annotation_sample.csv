@@ -1,0 +1,21 @@
+frame_id,source_clip,object_id,object_type,assigned_label,confidence,review_status,issue_flag,corrected_label
+F001,CLIP_01,O001,vehicle,car,0.98,Approved,None,car
+F001,CLIP_01,O002,person,person,0.99,Approved,None,person
+F002,CLIP_01,O003,vehicle,motorcycle,0.94,Approved,None,motorcycle
+F002,CLIP_01,O004,person,person,0.97,Approved,None,person
+F003,CLIP_01,O005,vehicle,car,0.72,Review,Low confidence,car
+F003,CLIP_01,O006,vehicle,motorcycle,0.68,Review,Low confidence,motorcycle
+F004,CLIP_01,O007,person,pedestrian,0.91,Review,Label inconsistency,person
+F004,CLIP_01,O008,vehicle,car,0.96,Approved,None,car
+F005,CLIP_01,O009,vehicle,van,0.83,Approved,None,van
+F005,CLIP_01,O010,person,person,0.98,Approved,None,person
+F006,CLIP_02,O011,vehicle,truck,0.95,Approved,None,truck
+F006,CLIP_02,O012,person,person,0.97,Approved,None,person
+F007,CLIP_02,O013,vehicle,car,0.89,Approved,None,car
+F007,CLIP_02,O014,vehicle,automobile,0.81,Review,Label inconsistency,car
+F008,CLIP_02,O015,person,pedestrian,0.93,Review,Label inconsistency,person
+F008,CLIP_02,O016,vehicle,truck,0.96,Approved,None,truck
+F009,CLIP_02,O017,vehicle,motorcycle,0.92,Approved,None,motorcycle
+F009,CLIP_02,O018,person,person,0.99,Approved,None,person
+F010,CLIP_02,O019,vehicle,car,0.95,Approved,None,car
+F010,CLIP_02,O020,person,person,0.98,Approved,None,person
